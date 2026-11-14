@@ -1,0 +1,12 @@
+{
+  "name": "slide",
+  "version": "1.0.0",
+  "description": "AI presentation maker. Plan, design, and generate a slide deck from a prompt.",
+  "author": {
+    "name": "Slide"
+  },
+  "homepage": "https://www.getslide.pro",
+  "repository": "https://github.com/arielcohen4/slide",
+  "license": "MIT",
+  "keywords": ["presentation", "slides", "pitch-deck", "powerpoint"]
+}

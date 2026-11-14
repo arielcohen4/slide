@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.arielcohen4/slide",
+  "title": "Slide",
+  "description": "AI presentation maker. Plan, design, and generate a slide deck.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/arielcohen4/slide",
+    "source": "github"
+  },
+  "websiteUrl": "https://www.getslide.pro",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.getslide.pro/mcp"
+    }
+  ]
+}

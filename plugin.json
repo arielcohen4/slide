@@ -1,0 +1,16 @@
+{
+  "name": "slide",
+  "displayName": "Slide",
+  "description": "AI presentation maker. Plan, design, and generate a slide deck from a prompt.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Slide",
+    "url": "https://www.getslide.pro"
+  },
+  "homepage": "https://www.getslide.pro",
+  "repository": "https://github.com/arielcohen4/slide",
+  "license": "MIT",
+  "keywords": ["presentation", "slides", "pitch-deck", "powerpoint", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}

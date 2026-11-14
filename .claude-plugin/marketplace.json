@@ -1,0 +1,17 @@
+{
+  "name": "slide",
+  "owner": {
+    "name": "Slide"
+  },
+  "metadata": {
+    "description": "Slide, an AI presentation maker, as a skill and a remote MCP server."
+  },
+  "plugins": [
+    {
+      "name": "slide",
+      "source": "./",
+      "description": "Plan, design, and generate presentations with Slide.",
+      "homepage": "https://www.getslide.pro"
+    }
+  ]
+}
